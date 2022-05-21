@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+<img title="michael.gr logo" src="michael.gr-logo.svg" width="512"/><br/>
+</p>
+I am a Software Engineer with 30+ years of experience. In my day job I do C#. At night, I do Java. Sometimes I even have a life.  
+
+- 📫 How to reach me:
+    - visit my blog http://michael.gr
+    - my e-mail address is on the right sidebar. 
 
 <!--
 **mikenakis/mikenakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
