@@ -32,21 +32,37 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 -->
 <br/>
 <br/>
+<a href="">
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic" height="22" />
+</a>
 &nbsp;
+<a href="">
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=plastic" height="22" />
+</a>
 &nbsp;
+<a href="">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic" height="22" />
+</a>
 &nbsp;
+<a href="">
 <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=plastic" height="22" />
-&nbsp; &nbsp; &nbsp; &nbsp;
+</a>
+&nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-4080c0.svg?logo=intellij-idea&logoColor=black&style=plastic" height="22" />
+</a>
 &nbsp;
+<a href="">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white&style=plastic" height="22" />
+</a>
 &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="">
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic" height="22" />
-&nbsp;
+</a>
+&nbsp; 
+<a href="">
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic" height="22" />
+</a>
 
 <!--
 <a href="https://stackexchange.com/users/404649"><img src="https://stackexchange.com/users/flair/404649.png?theme=dark" width="208" height="58" alt="profile for Mike Nakis on Stack Exchange" title="profile for Mike Nakis on Stack Exchange"></a>
