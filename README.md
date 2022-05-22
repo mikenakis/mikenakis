@@ -8,13 +8,16 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <img src="https://img.shields.io/badge/-github.com/mikenakis-406080?style=plastic&logo=github" height="22"/></a>
 &nbsp;
 <a href="mailto:mailto@michael.gr">
-<img src="https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?style=plastic&logo=gmail&logoColor=red&link=mailto:github@michael.gr" height="22"/></a>
+<img src="https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?logo=gmail&style=plastic" height="22"/></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/773113/mike-nakis">
 <img src="https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic" height="22" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mikenakis/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin" height="22"/></a>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic" height="22"/></a>
+&nbsp;
+<a href="https://blog.michael.gr">
+<img src="https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic" height="22" /></a>
 &nbsp;
 <a href="https://meet.google.com/zqu-tekx-zdk">
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic" height="22" /></a>
@@ -22,6 +25,8 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <!-- Does not work due to: https://github.com/badges/shields/issues/5415 
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
 -->
+<br/>
+
 <!--
 <img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=plastic" height="22" />
 -->
