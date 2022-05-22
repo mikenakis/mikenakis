@@ -26,7 +26,8 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
 -->
 <br/>
-
+<br/>
+Languages, tools, operating systems:
 <!--
 <img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=plastic" height="22" />
 -->
