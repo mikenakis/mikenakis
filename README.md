@@ -4,11 +4,16 @@
 
 I am a Software Engineer with 30+ years of experience. In my day job, I do C#. At night, I do Java. Sometimes, I even have a life.  
 
-<a href="https://github.com/mikenakis">
-<img src="https://img.shields.io/badge/-github.com/mikenakis-406080?style=plastic&logo=github" height="22"/></a>
-&nbsp;
 <a href="mailto:mailto@michael.gr">
 <img src="https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?logo=gmail&style=plastic" height="22"/></a>
+&nbsp;
+<a href="https://blog.michael.gr">
+<img src="https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic" height="22" /></a>
+&nbsp;
+<br/>
+<br/>
+<a href="https://github.com/mikenakis">
+<img src="https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github" height="22"/></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/773113/mike-nakis">
 <img src="https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic" height="22" /></a>
@@ -16,21 +21,9 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <a href="https://www.linkedin.com/in/mikenakis/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic" height="22"/></a>
 &nbsp;
-<a href="https://blog.michael.gr">
-<img src="https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic" height="22" /></a>
-&nbsp;
 <a href="https://meet.google.com/zqu-tekx-zdk">
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic" height="22" /></a>
 &nbsp;
-<!-- Does not work due to: https://github.com/badges/shields/issues/5415 
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
--->
-<br/>
-<br/>
-Languages, tools, operating systems:
-<!--
-<img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=plastic" height="22" />
--->
 <br/>
 <br/>
 <a href="#">
@@ -57,8 +50,14 @@ Languages, tools, operating systems:
 <a href="#">
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic" height="22" /></a>
 
+<!-- Does not work due to: https://github.com/badges/shields/issues/5415 
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
+-->
 <!--
 <a href="https://stackexchange.com/users/404649"><img src="https://stackexchange.com/users/flair/404649.png?theme=dark" width="208" height="58" alt="profile for Mike Nakis on Stack Exchange" title="profile for Mike Nakis on Stack Exchange"></a>
+-->
+<!--
+<img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=plastic" height="22" />
 -->
 
 <!--
