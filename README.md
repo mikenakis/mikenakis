@@ -4,21 +4,12 @@
 
 I am a Software Engineer with 30+ years of experience. In my day job, I do C#. At night, I do Java. Sometimes, I even have a life.  
 <br/>
-How to contact me
-<br/>
-<br/>
 <a href="mailto:mailto@michael.gr">
 <img src="https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?logo=gmail&style=plastic" height="22"/></a>
 &nbsp;
 <a href="https://blog.michael.gr">
 <img src="https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic" height="22" /></a>
 &nbsp;
-<br/>
-<br/>
-<hr/>
-About me
-<br/>
-<br/>
 <a href="https://github.com/mikenakis">
 <img src="https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github" height="22"/></a>
 &nbsp;
@@ -34,9 +25,6 @@ About me
 <br/>
 <br/>
 <hr/>
-Things I do
-<br/>
-<br/>
 <a href="#">
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic" height="22" /></a>
 &nbsp;
