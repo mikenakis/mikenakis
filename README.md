@@ -13,6 +13,8 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <a href="https://github.com/mikenakis">
 <img src="https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github" height="22"/></a>
 &nbsp;
+<!--- This works, but looks horrid, so instead use a hard-coded one. -->
+<!-- ![](https://stackoverflow-badge.vercel.app/?userID=773113) -->
 <a href="https://stackoverflow.com/users/773113/mike-nakis">
 <img src="https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic" height="22" /></a>
 &nbsp;
