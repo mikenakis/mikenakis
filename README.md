@@ -4,55 +4,38 @@
 
 I am a Software Engineer with 30+ years of experience. In my day job, I do C#. At night, I do Java. Sometimes, I even have a life.  
 <br/>
-<a href="mailto:mailto@michael.gr">
-<img src="https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?logo=gmail&style=plastic" height="22"/></a>
+[![e-mail](https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?logo=gmail&style=plastic)](mailto:mailto@michael.gr)
 &nbsp;
-<a href="https://blog.michael.gr">
-<img src="https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic" height="22" /></a>
+[![blog](https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic)](https://blog.michael.gr)
 &nbsp;
-<a href="https://github.com/mikenakis">
-<img src="https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github" height="22"/></a>
+[![github](https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github)](https://github.com/mikenakis)
 &nbsp;
-<a href="https://stackoverflow.com/users/773113/mike-nakis">
-<img src="https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic" height="22" /></a>
+[![stackoverflow](https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic)](https://stackoverflow.com/users/773113/mike-nakis)
 &nbsp;
-<a href="https://www.linkedin.com/in/mikenakis/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic" height="22"/></a>
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mikenakis/)
 &nbsp;
-<a href="https://meet.google.com/zqu-tekx-zdk">
-<img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic" height="22" /></a>
-&nbsp;
+[![meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic)](https://meet.google.com/zqu-tekx-zdk)
 <br/>
 <br/>
-<a href="#;">
-<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic" height="22" /></a>
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic)](#;)
 &nbsp;
-<a href="#;">
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=plastic" height="22" /></a>
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=plastic)](#;)
 &nbsp;
-<a href="#;">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic" height="22" /></a>
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic)](#;)
 &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Scala-FF4040?logo=scala&logoColor=white&style=plastic" height="22" /></a>
+[![Scala](https://img.shields.io/badge/Scala-FF4040?logo=scala&logoColor=white&style=plastic)](#;)
 &nbsp;
-<a href="#;">
-<img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=plastic" height="22" /></a>
+[![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=plastic)](#;)
 &nbsp; &nbsp;
-<a href="#;">
-<img src="https://img.shields.io/badge/IDEA-4080c0.svg?logo=intellij-idea&logoColor=black&style=plastic" height="22" /></a>
+[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-4080c0.svg?logo=intellij-idea&logoColor=black&style=plastic)](#;)
 &nbsp;
-<a href="#;">
-<img src="https://img.shields.io/badge/VS-5C2D91?logo=visual%20studio&logoColor=white&style=plastic" height="22" /></a>
+[![Visual Studio](https://img.shields.io/badge/VS-5C2D91?logo=visual%20studio&logoColor=white&style=plastic)](#;)
 &nbsp; &nbsp;
-<a href="#;">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic" height="22" /></a>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#;)
 &nbsp; 
-<a href="#;">
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic" height="22" /></a>
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic)](#;)
 &nbsp; 
-<a href="#;">
-<img src="https://img.shields.io/badge/macOS-C0C0C0?logo=macos&logoColor=black&style=plastic" height="22" /></a>
+[![Mac OS](https://img.shields.io/badge/macOS-C0C0C0?logo=macos&logoColor=black&style=plastic)](#;)
 
 <!-- Does not work due to: https://github.com/badges/shields/issues/5415 
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
