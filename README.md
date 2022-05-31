@@ -38,13 +38,13 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=plastic" height="22" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-4080c0.svg?logo=intellij-idea&logoColor=black&style=plastic" height="22" /></a>
+<img src="https://img.shields.io/badge/IDEA-4080c0.svg?logo=intellij-idea&logoColor=black&style=plastic" height="22" /></a>
 &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white&style=plastic" height="22" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/VS-5C2D91?logo=visual%20studio&logoColor=white&style=plastic" height="22" /></a>
+&nbsp; &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic" height="22" /></a>
 &nbsp; 
