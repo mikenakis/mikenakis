@@ -13,8 +13,6 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <a href="https://github.com/mikenakis">
 <img src="https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github" height="22"/></a>
 &nbsp;
-<!--- This works, but looks horrid, so instead use a hard-coded one. -->
-<!-- ![](https://stackoverflow-badge.vercel.app/?userID=773113) -->
 <a href="https://stackoverflow.com/users/773113/mike-nakis">
 <img src="https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic" height="22" /></a>
 &nbsp;
@@ -36,6 +34,9 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic" height="22" /></a>
 &nbsp;
 <a href="#">
+<img src="https://img.shields.io/badge/Scala-FF4040?logo=scala&logoColor=white&style=plastic" height="22" /></a>
+&nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=plastic" height="22" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="#">
@@ -49,6 +50,9 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 &nbsp; 
 <a href="#">
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic" height="22" /></a>
+&nbsp; 
+<a href="#">
+<img src="https://img.shields.io/badge/macOS-C0C0C0?logo=macos&logoColor=black&style=plastic" height="22" /></a>
 
 <!-- Does not work due to: https://github.com/badges/shields/issues/5415 
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
