@@ -4,38 +4,27 @@
 
 I am a Software Engineer with 30+ years of experience. In my day job, I do C#. At night, I do Java. Sometimes, I even have a life.  
 <br/>
-[![e-mail](https://img.shields.io/badge/-mailto@michael.gr-e0e0e0?logo=gmail&style=plastic)](mailto:mailto@michael.gr)
-&nbsp;
-[![blog](https://img.shields.io/badge/-blog.michael.gr-e0e0e0?logo=blogger&style=plastic)](https://blog.michael.gr)
-&nbsp;
-[![github](https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github)](https://github.com/mikenakis)
-&nbsp;
+[![e-mail       ](https://img.shields.io/badge/-mailto@michael.gr-6080a0?logo=gmail&logoColor=red&style=plastic)](mailto:mailto@michael.gr)
+[![blog         ](https://img.shields.io/badge/-blog.michael.gr-b0b0b0?logo=blogger&logoColor=red&style=plastic)](https://blog.michael.gr)
+[![github       ](https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github)](https://github.com/mikenakis)
 [![stackoverflow](https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic)](https://stackoverflow.com/users/773113/mike-nakis)
-&nbsp;
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mikenakis/)
-&nbsp;
-[![meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic)](https://meet.google.com/zqu-tekx-zdk)
+[![linkedin     ](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mikenakis/)
+[![meet         ](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic)](https://meet.google.com/zqu-tekx-zdk)
 <br/>
 <br/>
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic)](#;)
-&nbsp;
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=plastic)](#;)
-&nbsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic)](#;)
-&nbsp;
-[![Scala](https://img.shields.io/badge/Scala-FF4040?logo=scala&logoColor=white&style=plastic)](#;)
-&nbsp;
-[![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=plastic)](#;)
+[![C#           ](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic)](#;)
+[![Java         ](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=plastic)](#;)
+[![Scala        ](https://img.shields.io/badge/Scala-FF4040?logo=scala&logoColor=white&style=plastic)](#;)
+[![C++          ](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic)](#;)
+[![Git          ](https://img.shields.io/badge/git-E44C30?logo=git&logoColor=white&style=plastic)](#;)
 &nbsp; &nbsp;
-[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-4080c0.svg?logo=intellij-idea&logoColor=black&style=plastic)](#;)
+[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-4080c0.svg?logo=intellij-idea&logoColor=white&style=plastic)](#;)
 &nbsp;
 [![Visual Studio](https://img.shields.io/badge/VS-5C2D91?logo=visual%20studio&logoColor=white&style=plastic)](#;)
 &nbsp; &nbsp;
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#;)
-&nbsp; 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic)](#;)
-&nbsp; 
-[![Mac OS](https://img.shields.io/badge/macOS-C0C0C0?logo=macos&logoColor=black&style=plastic)](#;)
+[![Linux        ](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#;)
+[![Windows      ](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic)](#;)
+[![Mac OS       ](https://img.shields.io/badge/macOS-C0C0C0?logo=macos&logoColor=black&style=plastic)](#;)
 
 <!-- Does not work due to: https://github.com/badges/shields/issues/5415 
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
