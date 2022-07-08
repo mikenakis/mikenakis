@@ -25,27 +25,16 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 [![Linux        ](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#;)
 [![Windows      ](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic)](#;)
 [![Mac OS       ](https://img.shields.io/badge/macOS-C0C0C0?logo=macos&logoColor=black&style=plastic)](#;)
+<br/>
+<br/>
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=mikenakis.mikenakis&left_color=gray&right_color=blue)](#;)
+
+<!-- alternative profile counter: https://komarev.com/ghpvc/?username=<username>&color=red&label=Visitor+count -->
+<!-- alternative profile counter: https://gpvc.arturio.dev/<username> -->
 
 <!-- Does not work due to: https://github.com/badges/shields/issues/5415 
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/773113?color=orange&label=Stack Overflow&logo=stackoverflow&style=plastic" height="22" />
 -->
-<!--
+<!-- Not cool 
 <a href="https://stackexchange.com/users/404649"><img src="https://stackexchange.com/users/flair/404649.png?theme=dark" width="208" height="58" alt="profile for Mike Nakis on Stack Exchange" title="profile for Mike Nakis on Stack Exchange"></a>
--->
-<!--
-<img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=plastic" height="22" />
--->
-
-<!--
-**mikenakis/mikenakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
