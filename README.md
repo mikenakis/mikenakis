@@ -2,7 +2,7 @@
 <img title="michael.gr logo" src="michael.gr-logo.svg" width="512"/><br/>
 </p>
 
-I am a Software Engineer with 30+ years of experience. In my day job, I do C#. At night, I do Java. Sometimes, I even have a life.  
+I am a Software Engineer with 30+ years of experience. In my day job, I do C#. At night, I do more C#. Sometimes, I even have a life.  
 <br/>
 [![e-mail       ](https://img.shields.io/badge/-mailto@michael.gr-6080a0?logo=gmail&logoColor=red&style=plastic)](mailto:mailto@michael.gr)
 [![blog         ](https://img.shields.io/badge/-blog.michael.gr-b0b0b0?logo=blogger&logoColor=red&style=plastic)](https://blog.michael.gr)
