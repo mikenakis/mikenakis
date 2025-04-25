@@ -7,7 +7,7 @@ I am a Software Engineer with 30+ years of experience. In my day job, I do C#. A
 [![e-mail       ](https://img.shields.io/badge/-mailto@michael.gr-6080a0?logo=gmail&logoColor=red&style=plastic)](mailto:mailto@michael.gr)
 [![blog         ](https://img.shields.io/badge/-blog.michael.gr-b0b0b0?logo=blogger&logoColor=red&style=plastic)](https://blog.michael.gr)
 [![github       ](https://img.shields.io/badge/-mikenakis-406080?style=plastic&logo=github)](https://github.com/mikenakis)
-[![stackoverflow](https://img.shields.io/badge/-50K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic)](https://stackoverflow.com/users/773113/mike-nakis)
+[![stackoverflow](https://img.shields.io/badge/-60K-orange?logo=stackoverflow&label=Stackoverflow&labelColor=606060&style=plastic)](https://stackoverflow.com/users/773113/mike-nakis)
 [![linkedin     ](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mikenakis/)
 [![meet         ](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=plastic)](https://meet.google.com/zqu-tekx-zdk)
 <br/>
